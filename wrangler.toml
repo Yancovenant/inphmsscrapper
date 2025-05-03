@@ -1,0 +1,4 @@
+name = "inphmsscrapper"
+main = "src/app.py"
+compatibility_date = "2025-05-03"
+compatibility_flags = ["python_workers"]
